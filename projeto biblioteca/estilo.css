@@ -1,0 +1,64 @@
+body{
+    font-family: fantasy;
+    background-color: black;
+}
+
+
+h1 {
+    text-align: center;
+   color: white;
+   font-size: 50px;
+
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+table{
+    align-items: center;
+ text-align: center;
+    color: white;
+}
+.btn{
+    background-color: white;
+    font-size: larger;
+
+    
+}
+div{
+    text-align: center;
+}
+
+.divtab {
+        margin-left: 39%;
+        
+      }
+
+.divtab2{
+    margin-left: 33%;
+}
+      
+
+
+a:link, a:visited {
+  background-color: #f22213;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+.butao{
+    margin-right: 31%;
+}
+
+.butao2{
+    margin-right: 3%;
+}
